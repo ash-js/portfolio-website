@@ -6,18 +6,17 @@ export default function AboutMe() {
       </div>
       <div className="hero--section--content--box about--section--box">
         <div className="hero--section--content">
-          <p className="section--title">About</p>
+          <p className="section--title"></p>
           <h1 className="skills-section--heading">About Me</h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae? Voluptatem, reprehenderit alias? Eligendi aperiam
-            tempora numquam sint odit optio.
+            I have been passionate about programming and building websites since
+            childhood. I particularly enjoy coding in JavaScript and C#,
+            crafting innovative solutions and bringing ideas to life through
+            code.
           </p>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae?
+            Beyond programming, I enjoy staying active by going to the gym and
+            swimming.
           </p>
         </div>
       </div>

@@ -1,5 +1,5 @@
-import { Link } from "react-scroll";
-import React from "react";
+import { Link } from 'react-scroll'
+import React from 'react'
 
 function Footer() {
   return (
@@ -81,7 +81,7 @@ function Footer() {
           <ul>
             <li>
               <a
-                href="https://www.facebook.com/"
+                href="https://www.facebook.com/ashor.abdal/"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -102,7 +102,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.instagram.com/"
+                href="https://www.instagram.com/ashour.s.a/"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -146,7 +146,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/in/ashour-abdal/"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -172,7 +172,7 @@ function Footer() {
       </div>
       <hr className="divider" />
       <div className="footer--content--container">
-        <p className="footer--content">Made with 💖 by John</p>
+        <p className="footer--content">Made with 💖 by Ashour</p>
         <div className="footer--social--icon">
           <ul>
             <li>
@@ -218,7 +218,7 @@ function Footer() {
         </div>
       </div>
     </footer>
-  );
+  )
 }
 
-export default Footer;
+export default Footer

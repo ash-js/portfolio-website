@@ -4,48 +4,51 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Creative Front-End Developer crafting responsive and intuitive UIs with React, Tailwind CSS, and AI integration."
     },
     {
       "id": "2",
-      "src": "./img/tag-1.png",
+      "src": "./img/feather-pen-1.png",
       "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Skilled Back-End Developer building robust and scalable applications with Node.js and .NET"
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
       "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Passionate UI/UX Designer focused on creating intuitive, user-friendly, and visually appealing digital experiences."
     },
     {
       "id": "4",
-      "src": "./img/feather-pen-1.png",
-      "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "./img/tag-2.png",
+      "title": "SQL",
+      "description": "Experienced in SQL database design, management, and optimization for reliable and efficient data solutions."
     }
   ],
   "portfolio": [
     {
       "id": "1",
       "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "Books Store",
+      "description": "Build real world e-commerce application using ASP.NET Core MVC, Entity Framework Core and ASP.NET Core Identity.",
+      "link": "View In Github",
+      "href": "https://github.com/ash-js/BookStore_MVC"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "Gamers Dream",
+      "description": "Developed a responsive React app using TypeScript, reusable components, CSS styling, form validation, backend integration, deployment, and clean coding practices.",
+      "link": "View In Github",
+      "href": "https://github.com/ash-js/Gamers-Dream"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "E-Commerce Ski Products",
+      "description": "Developed a feature-rich e-commerce platform using ASP.NET and Angular, styled with Tailwind CSS. Utilized Docker for containerization, integrated real-time updates with SignalR, deployed the application on Azure, and implemented secure payment processing with Stripe.",
+      "link": "View In Github",
+      "href": "https://github.com/ash-js/E-commerce-Ski-Products"
     }
   ],
   "testimonial": [
@@ -53,25 +56,25 @@
       "id": "1",
       "count": "5",
       "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
+      "description": "Working with Ashour was an absolute pleasure! They built a sleek and user-friendly website for my business that exceeded my expectations. The attention to detail and responsiveness throughout the process were incredible. I highly recommend his services!",
+      "author_name": "Michael R.",
+      "author_designation": ""
     },
     {
       "id": "2",
       "count": "5",
       "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
+      "description": "Ashour developed a custom e-commerce platform for our store, complete with real-time updates and seamless payment integration. Their technical expertise and ability to communicate complex ideas clearly made the project smooth and stress-free. We couldn’t be happier with the results!",
+      "author_name": "Lee N.",
+      "author_designation": ""
     },
     {
       "id": "3",
       "count": "5",
       "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
+      "description": "I hired Ashour to create a web app for my startup, and they delivered a top-notch product on time. The combination of professionalism, creativity, and technical skill he brought to the project was outstanding. They’re a fantastic developer!",
+      "author_name": "George T.",
+      "author_designation": ""
     }
   ]
 }
