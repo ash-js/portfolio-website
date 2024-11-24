@@ -123,7 +123,7 @@ function Footer() {
                 </svg>
               </a>
             </li>
-            <li>
+            {/* <li>
               <a
                 href="https://www.twitter.com/"
                 className="navbar--content"
@@ -143,7 +143,7 @@ function Footer() {
                   />
                 </svg>
               </a>
-            </li>
+            </li> */}
             <li>
               <a
                 href="https://www.linkedin.com/in/ashour-abdal/"

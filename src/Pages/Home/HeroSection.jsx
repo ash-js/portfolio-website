@@ -15,7 +15,9 @@ export default function HeroSection() {
             <br /> Looking for Opportunities in the Industry.
           </p>
         </div>
-        <button className="btn btn-primary">Download My Resume</button>
+        <a href="Ashour-Resume.pdf">
+          <button className="btn btn-primary">Download My Resume</button>
+        </a>
       </div>
       <div className="hero--section--img">
         <img src="./img/hero_img.png" alt="Hero Section" />
